@@ -147,3 +147,13 @@ h1 {
 .main-footer a:hover {
   text-decoration: underline;
 }
+.loading,
+.error {
+  text-align: center;
+  font-size: 18px;
+  color: #555;
+  padding: 20px;
+}
+.error {
+  color: red;
+}
