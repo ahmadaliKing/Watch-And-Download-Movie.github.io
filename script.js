@@ -3,17 +3,15 @@ let moviesData = []; // Declare only once
 async function fetchMovies() {
   const container = document.getElementById('movies');
 
-  // Step 1: Show loading message
+  // Show loading message
   container.innerHTML = `<p class="loading">Loading movies...</p>`;
 
   try {
     const res = await fetch('movies.json');
     moviesData = await res.json();
 
-    // Step 2: Show movies
     displayMovies(moviesData);
   } catch (error) {
-    // Step 3: Show error if fetch fails
     container.innerHTML = `<p class="error">❌ Failed to load movie data.</p>`;
     console.error("Error fetching JSON:", error);
   }
@@ -40,10 +38,12 @@ function displayMovies(movies) {
 }
 
 function copyLink(link) {
-  navigator.clipboard.writeText(link);
-  alert('Link copied!');
+  navigator.clipboard.writeText(link).then(() => {
+    alert('Link copied!');
+  });
 }
 
+// Search movie by name
 document.getElementById('search').addEventListener('input', function () {
   const keyword = this.value.toLowerCase();
   const filtered = moviesData.filter(movie =>
@@ -52,4 +52,5 @@ document.getElementById('search').addEventListener('input', function () {
   displayMovies(filtered);
 });
 
-fetchMovies(); // Initial fetch
+// Start fetching on load
+fetchMovies();
