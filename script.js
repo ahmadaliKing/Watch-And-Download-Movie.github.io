@@ -1,4 +1,5 @@
-let moviesData = []; // Declare only once
+// Declare only once, at top
+let moviesData = [];
 
 async function fetchMovies() {
   const container = document.getElementById('movies');
