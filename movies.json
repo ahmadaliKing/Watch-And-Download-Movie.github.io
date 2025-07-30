@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Inception",
+    "poster": "https://image.tmdb.org/t/p/w300/edv5CZvWj09upOsy2Y6IwDhK8bt.jpg",
+    "release": "2010-07-16",
+    "link": "https://www.imdb.com/title/tt1375666/"
+  },
+  {
+    "name": "Interstellar",
+    "poster": "https://image.tmdb.org/t/p/w300/rAiYTfKGqDCRIIqo664sY9XZIvQ.jpg",
+    "release": "2014-11-07",
+    "link": "https://www.imdb.com/title/tt0816692/"
+  },
+  {
+    "name": "The Dark Knight",
+    "poster": "https://image.tmdb.org/t/p/w300/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+    "release": "2008-07-18",
+    "link": "https://www.imdb.com/title/tt0468569/"
+  },
+  {
+    "name": "Avengers: Endgame",
+    "poster": "https://image.tmdb.org/t/p/w300/or06FN3Dka5tukK1e9sl16pB3iy.jpg",
+    "release": "2019-04-26",
+    "link": "https://www.imdb.com/title/tt4154796/"
+  },
+  {
+    "name": "Avatar",
+    "poster": "https://image.tmdb.org/t/p/w300/kyeqWdyUXW608qlYkRqosgbbJyK.jpg",
+    "release": "2009-12-18",
+    "link": "https://www.imdb.com/title/tt0499549/"
+  },
+  {
+    "name": "Titanic",
+    "poster": "https://image.tmdb.org/t/p/w300/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
+    "release": "1997-12-19",
+    "link": "https://www.imdb.com/title/tt0120338/"
+  },
+  {
+    "name": "Spider-Man: No Way Home",
+    "poster": "https://image.tmdb.org/t/p/w300/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
+    "release": "2021-12-17",
+    "link": "https://www.imdb.com/title/tt10872600/"
+  },
+  {
+    "name": "Doctor Strange",
+    "poster": "https://image.tmdb.org/t/p/w300/uGBVj3bEbCoZbDjjl9wTxcygko1.jpg",
+    "release": "2016-11-04",
+    "link": "https://www.imdb.com/title/tt1211837/"
+  },
+  {
+    "name": "Iron Man",
+    "poster": "https://image.tmdb.org/t/p/w300/78lPtwv72eTNqFW9COBYI0dWDJa.jpg",
+    "release": "2008-05-02",
+    "link": "https://www.imdb.com/title/tt0371746/"
+  },
+  {
+    "name": "Black Panther",
+    "poster": "https://image.tmdb.org/t/p/w300/uxzzxijgPIY7slzFvMotPv8wjKA.jpg",
+    "release": "2018-02-16",
+    "link": "https://www.imdb.com/title/tt1825683/"
+  },
+  {
+    "name": "The Batman",
+    "poster": "https://image.tmdb.org/t/p/w300/74xTEgt7R36Fpooo50r9T25onhq.jpg",
+    "release": "2022-03-04",
+    "link": "https://www.imdb.com/title/tt1877830/"
+  },
+  {
+    "name": "Joker",
+    "poster": "https://image.tmdb.org/t/p/w300/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+    "release": "2019-10-04",
+    "link": "https://www.imdb.com/title/tt7286456/"
+  },
+  {
+    "name": "The Matrix",
+    "poster": "https://image.tmdb.org/t/p/w300/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg",
+    "release": "1999-03-31",
+    "link": "https://www.imdb.com/title/tt0133093/"
+  },
+  
+  {
+    "name": "The Lion King",
+    "poster": "https://image.tmdb.org/t/p/w300/2bXbqYdUdNVa8VIWXVfclP2ICtT.jpg",
+    "release": "1994-06-24",
+    "link": "https://www.imdb.com/title/tt0110357/"
+  },
+ 
+  {
+    "name": "The Super Mario Bros. Movie",
+    "poster": "https://image.tmdb.org/t/p/w300/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg",
+    "release": "2023-04-05",
+    "link": "https://www.imdb.com/title/tt6718170/"
+  },
+  {
+    "name": "Shazam!",
+    "poster": "https://image.tmdb.org/t/p/w300/xnopI5Xtky18MPhK40cZAGAOVeV.jpg",
+    "release": "2019-04-05",
+    "link": "https://www.imdb.com/title/tt0448115/"
+  },
+  {
+    "name": "The Flash",
+    "poster": "https://image.tmdb.org/t/p/w300/rktDFPbfHfUbArZ6OOOKsXcv0Bm.jpg",
+    "release": "2023-06-16",
+    "link": "https://www.imdb.com/title/tt0439572/"
+  },
+  {
+    "name": "Guardians of the Galaxy Vol. 3",
+    "poster": "https://image.tmdb.org/t/p/w300/5YZbUmjbMa3ClvSW1Wj3D6XGolb.jpg",
+    "release": "2023-05-05",
+    "link": "https://www.imdb.com/title/tt6791350/"
+  }
+]
